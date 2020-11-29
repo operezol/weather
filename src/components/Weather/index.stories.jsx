@@ -1,6 +1,5 @@
 import React from "react";
-import Weather from "./";
-import "typeface-roboto";
+import Weather from "components/Weather";
 export default {
   title: "Weather",
   component: Weather,
